@@ -1,5 +1,5 @@
 backend:
-  name: books-blog
+  name: github
   repo: saurer19/books-blog
 
 media_folder: static/assets
